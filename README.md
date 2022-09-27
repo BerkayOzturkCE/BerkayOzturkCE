@@ -30,11 +30,10 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p align="center">  <a href="https://github.com/BerkayOzturkCE">
-<img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=BerkayOzturkCE&show_icons=true&locale=en&&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545&layout=compact"
-    alt="BerkayOzturkCE" 
-    /> </a></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerkayOzturkCE&langs_count=12&hide_border=true&layout=compact&theme=gruvbox"/>
+</p>
+
 
 [![BerkayOzturkCE's contributions ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=BerkayOzturkCE&custom_title=BerkayOzturkCE's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/BerkayOzturkCE)
 
