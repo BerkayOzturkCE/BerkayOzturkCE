@@ -20,6 +20,7 @@ Here are some ideas to get you started:
     src="https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FBerkayOzturkCE.BerkayfOzturkCE%2Freadme"
     alt="BerkayOzturkCE" 
     /> </a></p>
+    
 ## 📊 My Statistics
 
 <br/>
