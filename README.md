@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My Statistics
+
+## 📊 My Statistics
 
 <br/>
 <p align="left">
@@ -24,12 +25,20 @@ Here are some ideas to get you started:
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=BerkayOzturkCE&theme=gruvbox&hide_border=true" />
   </a>
 </p>
-<br>
 
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=BerkayOzturkCE&show_icons=true&locale=en&&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545"
+<p align="center">  <a href="https://github.com/BerkayOzturkCE">
+<img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=BerkayOzturkCE&show_icons=true&locale=en&&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545&layout=compact"
     alt="BerkayOzturkCE" 
-    hide_border=true&line=d1a01f&point=c58545
-    bg_color=282828/></p>
+    /> </a></p>
 
 [![BerkayOzturkCE's contributions ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=BerkayOzturkCE&custom_title=BerkayOzturkCE's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/BerkayOzturkCE)
+
+
+## 📌 Contact
+<p>
+<a href="https://www.linkedin.com/in/broztrk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="donpablonow" height="30" width="40" /></a>
+<a href="https://www.instagram.com/brky_oztrk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="donpablonow" height="30" width="40" /></a>
+<a href="https://twitter.com/BerkayOzturkCE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="donpablonow" height="30" width="40" /></a>
+
+</p>
