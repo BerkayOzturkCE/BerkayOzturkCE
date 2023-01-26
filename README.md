@@ -2,18 +2,17 @@
 
 <!--
 **BerkayOzturkCE/BerkayOzturkCE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Flutter and .Net.
+- 🌱 I’m currently learning .Net
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+<!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...-->
+
 
 <p align="center">  <a href="https://github.com/BerkayOzturkCE">
 <img align="center"
@@ -36,10 +35,9 @@ Here are some ideas to get you started:
 </p>
 
 
-[![BerkayOzturkCE's contributions ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=BerkayOzturkCE&custom_title=BerkayOzturkCE's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/BerkayOzturkCE)
 
 
-## 📌 Contact
+## 📫 Contact
 <a>
 
 <a href="https://www.linkedin.com/in/broztrk/" target="blank"><img align="center" src="https://github.com/BerkayOzturkCE/BerkayOzturkCE/blob/main/linkedin.png" 
