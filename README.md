@@ -13,6 +13,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
+<div align="center" style="width:100%;height:0;padding-bottom:75%;position:relative;"><img src="https://media0.giphy.com/media/l0HlRWOxvtUYYAC7m/giphy.gif?cid=790b761160e179d35d612a3698088ae1faa37e05a34601ca&rid=giphy.gif&ct=g" width="60%" height="60%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
+
+
 
 <p align="center">  <a href="https://github.com/BerkayOzturkCE">
 <img align="center"
@@ -33,6 +36,18 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerkayOzturkCE&langs_count=12&hide_border=true&layout=compact&theme=gruvbox"/>
 </p>
+
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=berkayozturkce&theme=gruvbox" width="100%">
+
+<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+<img src="https://github.com/BerkayOzturkCE/BerkayOzturkCE/blob/main/github-user-contribution.svg" width="100%">
+    
+
+
 
 
 
